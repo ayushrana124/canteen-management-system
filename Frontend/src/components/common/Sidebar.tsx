@@ -1,0 +1,1 @@
+// Component which opens from left and where all links present like "order history, profile, recent activity" shows 

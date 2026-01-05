@@ -1,0 +1,1 @@
+// page where all canteens will be listed
