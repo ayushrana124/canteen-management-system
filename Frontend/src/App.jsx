@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div>
        <h1 class="text-3xl font-bold underline">
-    my name is aniruddh 
+    my name is aniruddh and aman
   </h1>
     </div>
   )
